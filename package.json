@@ -1,0 +1,26 @@
+{
+  "name": "versionamiento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "release.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimerodriguezp/versionamiento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimerodriguezp/versionamiento/issues"
+  },
+  "homepage": "https://github.com/jaimerodriguezp/versionamiento#readme",
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/github": "^10.3.4",
+    "@semantic-release/release-notes-generator": "^14.0.1",
+    "semantic-release": "^24.1.1"
+  }
+}
