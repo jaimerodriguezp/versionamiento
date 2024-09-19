@@ -6,7 +6,7 @@ module.exports = {
     {
       '@semantic-release/github': {
         assets: [
-          { path: 'dist/*.js', label: 'JavaScript distribution' }, // Ajusta según tus necesidades
+          { path: '/*.js', label: 'JavaScript files }, // Ajusta según tus necesidades
         ],
       },
     },
